@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Harshita and I am treading the path of a designer in the shoes of a developer. Needless to say, I am enjoying the best of both worlds! 
+I am Harshita and I am traveling on the path of a developer in the shoes of a designer. Spoiler alert, I am enjoying the best of both worlds! 
 
 <!--
 **harshitajain165/harshitajain165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
