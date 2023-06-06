@@ -39,13 +39,14 @@ If not any of this, you’ll find me wearing the crimson _GitHub Campus Expert_ 
 <a href= "https://medium.com/@jainharshita561"><img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
 <a href= "https://www.behance.net/harshitajain165"><img src = "https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"> </a>
 <a href= "https://www.notion.so/harshmello/Harshita-s-Portfolio-94d7f92b8ace46c1a3001c7582505622"><img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a>
-<a href= "https://www.notion.so/harshmello/Harshita-s-Portfolio-94d7f92b8ace46c1a3001c7582505622"><img src = "https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white"> </a>
+<a href= "https://harshmello.itch.io/"><img src = "https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white"> </a>
 
 ### Connect with me at: 📩
 
 <a href= "jainharshita561@gmail.com"><img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
+<a href= "https://www.linkedin.com/in/harshitajain16/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href= "https://twitter.com/harshitajain561"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
-<a href= "hhttps://www.linkedin.com/in/harshitajain16/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+
 
 
 
