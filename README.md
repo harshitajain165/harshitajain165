@@ -6,8 +6,8 @@ If not any of this, you’ll find me wearing the crimson _GitHub Campus Expert_ 
 - 🏫 I'm currently pursuing B.Tech in Electronics and Communication Engineering from NIT Hamirpur
 - 📜 I'll graduate in May 2024
 - 🎲 I've worked on the domains of AR/VR, Game Development, UI/UX and am exploring fo opportunities in the same
-- 🔭 I’m currently working at [Aquarius Exchange](https://www.aqex.io/) as an Extended Reality Developer
-- 🌱 I've previously worked at [Gamestacy](https://www.gamestacy.com/) as a UI/UX designer
+- 🔭 I’m currently working at [Mobile Premier League](https://www.mpl.live/) as a Software Development Intern
+- 🌱 I've previously worked at [Toyow](https://www.toyow.com) as a Unity Developer and at [Gamestacy](https://www.gamestacy.com/) as a UI/UX designer
 - 🚩 I'm a [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/)
 - 🎨 I'm a Figma Community Advocate at [Friends of Figma Hamirpur](https://friends.figma.com/hamirpur/)
 - 😄 Pronouns: She/her
