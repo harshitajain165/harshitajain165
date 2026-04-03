@@ -1,11 +1,12 @@
 ## Hello there 👋
 
-I am Harshita and I am walking on the path of a software enginner in the shoes of a designer while wearing the hat of a developer advocate. You’ll either find me fidgeting with prefabs on the Unity 3D game engine to make my little game prototypes functional or zooming in and out on Figma to make a hamburger look pixel perfect.
-If not any of this, you’ll find me wearing the crimson _GitHub Campus Expert_ hoodie and talking about my love for gamification of communities in various conferences and hackathons. 
+I am Harshita and I am walking on the path of a developer in the shoes of a designer. You’ll either find me fidgeting with prefabs on the Unity 3D game engine to make my little game prototypes functional or zooming in and out on Figma to make a hamburger look pixel perfect.
+If not any of this, you’ll find me wearing the crimson _GitHub Campus Expert_ hoodie and talking about my love for gamification of communities in various meet-ups and conferences. 
 
-- ♦️♣️❤️♠️ I work as a Software Development Engineer at [Mobile Premier League](https://www.mpl.live/), more famously known as MPL. Who knows whether I am the ace up their sleeve or the wild card in the deck 
-- 📜 I graduated in May 2024 from National Institute of Technology Hamirpur
-- 🎲 I've worked on the domains of AR/VR, Game Development, UI/UX and am always more than eager to talk about the same
+- 🏫 I'm currently pursuing B.Tech in Electronics and Communication Engineering from NIT Hamirpur
+- 📜 I'll graduate in May 2024
+- 🎲 I've worked on the domains of AR/VR, Game Development, UI/UX and am exploring fo opportunities in the same
+- 🔭 I’m currently working at [Mobile Premier League](https://www.mpl.live/) as a Software Development Intern
 - 🌱 I've previously worked at [Toyow](https://www.toyow.com) as a Unity Developer and at [Gamestacy](https://www.gamestacy.com/) as a UI/UX designer
 - 🚩 I'm a [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/)
 - 🎨 I'm a Figma Community Advocate at [Friends of Figma Hamirpur](https://friends.figma.com/hamirpur/)
