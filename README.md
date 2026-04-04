@@ -3,7 +3,7 @@
 I am Harshita and I am walking on the path of a developer in the shoes of a designer. You'll either find me fidgeting with prefabs on the Unity 3D game engine to make my little game prototypes functional or zooming in and out on Figma to make a hamburger look pixel perfect.
 If not any of this, you'll find me wearing the crimson _GitHub Campus Expert_ hoodie and talking about my love for gamification of communities in various meet-ups and conferences. 
 
-<img src="https://img.shields.io/badge/Hackathons-15-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hackathons-15-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/Attending-HackTropica-brightgreen?style=for-the-badge">
 
 - 🏫 I'm currently pursuing B.Tech in Electronics and Communication Engineering from NIT Hamirpur
 - 📜 I'll graduate in May 2024
