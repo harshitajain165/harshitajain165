@@ -5,7 +5,7 @@ I am Harshita — a Developer Relations Engineer at [Smallest AI](https://smalle
 If not building with AI, you'll find me wearing the crimson _GitHub Campus Expert_ hoodie, talking about how gamification and game design principles can make developer communities more engaging, inclusive, and resilient — at conferences like GitHub Universe, DevRelCon Yokohama, Open Tech Summit Jakarta, and codebar.
 
 - 🔭 I'm currently a Developer Relations Engineer at [Smallest AI](https://smallest.ai/), enabling developers to build with real-time Voice AI
-- 🏆 Hackathon Coach at [Major League Hacking (MLH)](https://mlh.io/), mentoring organizers and hackers
+- 🏆 Hackathon Coach at [Major League Hacking (MLH)](https://mlh.io/), mentoring organizers and hackers run successful, inclusive hackathons
 - 🎮 Previously a Software Development Engineer at [Mobile Premier League](https://www.mpl.live/), building real-time multiplayer games at scale
 - 🚩 Former [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/) — hosted workshops, led initiatives, and built playful systems for collaborative learning
 - 🎯 One of four game programmers from India selected for Ubisoft's Global Mentorship Program
