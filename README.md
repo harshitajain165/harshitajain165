@@ -1,14 +1,14 @@
 ## Hello there 👋
 
-I am Harshita — a Developer Relations Engineer at [Smallest AI](https://smallest.ai/), bridging real-time Voice AI and developer communities. I enable developers to build production-ready voice pipelines — from integrating smallest.ai into open-source orchestrators, to supporting startups from their first API call to real-world deployment.
+I am Harshita - a Developer Relations Engineer at [Smallest AI](https://smallest.ai/), bridging real-time Voice AI and developer communities. I enable developers to build production-ready voice pipelines - from integrating smallest.ai into open-source orchestrators, to supporting startups from their first API call to real-world deployment.
 
-If not building with AI, you'll find me speaking at conferences like GitHub Universe, DevRelCon Yokohama, Open Tech Summit Jakarta, HackCon by Major League Hacking, and codebar — on topics ranging from game development to gamification of technical communities.
+If not building with AI, you'll find me speaking at conferences like GitHub Universe, DevRelCon Yokohama, Open Tech Summit Jakarta, HackCon by Major League Hacking, and codebar - on topics ranging from game development to gamification of technical communities.
 
 - 🏆 Hackathon Coach at [Major League Hacking (MLH)](https://mlh.io/), mentoring organizers and hackers run successful, inclusive hackathons
 - 🎮 Previously a Software Development Engineer at [Mobile Premier League](https://www.mpl.live/), building real-time multiplayer games at scale
-- 🚩 Former [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/) — hosted workshops, hackathons, and led initiatives
+- 🚩 Former [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/) - hosted workshops, hackathons, and led initiatives
 - 🎯 One of four game programmers from India selected for Ubisoft's Global Mentorship Program
-- 📚 When not building, I'm reading Dostoevsky or Murakami — or writing narratives of my own
+- 📚 When not building, I'm reading Dostoevsky or Murakami - or writing narratives of my own
 - 😄 Pronouns: She/her
 
 ### Languages and tools I am familiar with: 🪛
