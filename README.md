@@ -1,17 +1,16 @@
 ## Hello there 👋
 
-I am Harshita and I am walking on the path of a developer in the shoes of a designer. You'll either find me fidgeting with prefabs on the Unity 3D game engine to make my little game prototypes functional or zooming in and out on Figma to make a hamburger look pixel perfect.
-If not any of this, you'll find me wearing the crimson _GitHub Campus Expert_ hoodie and talking about my love for gamification of communities in various meet-ups and conferences. 
+I am Harshita — a Developer Relations Engineer at [Smallest AI](https://smallest.ai/), bridging real-time Voice AI and developer communities. I enable developers to build production-ready voice pipelines — from integrating smallest.ai into open-source orchestrators like Pipecat and LiveKit, to supporting startups from their first API call to real-world deployment.
 
-<img src="https://img.shields.io/badge/Hackathons-15-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/Attending-HackTropica-brightgreen?style=for-the-badge">
+If not building with AI, you'll find me wearing the crimson _GitHub Campus Expert_ hoodie, talking about how gamification and game design principles can make developer communities more engaging, inclusive, and resilient — at conferences like GitHub Universe, DevRelCon Yokohama, Open Tech Summit Jakarta, and codebar.
 
-- 🏫 I'm currently pursuing B.Tech in Electronics and Communication Engineering from NIT Hamirpur
-- 📜 I'll graduate in May 2024
-- 🎲 I've worked on the domains of AR/VR, Game Development, UI/UX and am exploring fo opportunities in the same
-- 🔭 I'm currently working at [Mobile Premier League](https://www.mpl.live/) as a Software Development Intern
-- 🌱 I've previously worked at [Toyow](https://www.toyow.com) as a Unity Developer and at [Gamestacy](https://www.gamestacy.com/) as a UI/UX designer
-- 🚩 I'm a [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/)
-- 🎨 I'm a Figma Community Advocate at [Friends of Figma Hamirpur](https://friends.figma.com/hamirpur/)
+- 🔭 I'm currently a Developer Relations Engineer at [Smallest AI](https://smallest.ai/), enabling developers to build with real-time Voice AI
+- 🎙️ I organize hackathons, run a Startup Grants Program, and partner with startups from first API call to production
+- 🏆 Hackathon Coach at [Major League Hacking (MLH)](https://mlh.io/), mentoring organizers and hackers
+- 🎮 Previously a Software Development Engineer at [Mobile Premier League](https://www.mpl.live/), building real-time multiplayer games at scale
+- 🚩 Former [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/) — hosted workshops, led initiatives, and built playful systems for collaborative learning
+- 🎯 One of four game programmers from India selected for Ubisoft's Global Mentorship Program
+- 📚 When not building, I'm reading Dostoevsky or Murakami — or writing narratives of my own
 - 😄 Pronouns: She/her
 
 ### Languages and tools I am familiar with: 🪛
@@ -48,3 +47,5 @@ If not any of this, you'll find me wearing the crimson _GitHub Campus Expert_ ho
 <a href= "jainharshita561@gmail.com"><img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
 <a href= "https://www.linkedin.com/in/harshitajain16/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href= "https://twitter.com/harshitajain561"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
+
+<img src="https://img.shields.io/badge/Hackathons-15-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/Attending-HackTropica-brightgreen?style=for-the-badge">
