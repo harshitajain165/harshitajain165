@@ -47,5 +47,3 @@ If not building with AI, you'll find me wearing the crimson _GitHub Campus Exper
 <a href= "jainharshita561@gmail.com"><img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
 <a href= "https://www.linkedin.com/in/harshitajain16/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href= "https://twitter.com/harshitajain561"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
-
-<img src="https://img.shields.io/badge/Hackathons-15-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/Attending-HackTropica-brightgreen?style=for-the-badge">
