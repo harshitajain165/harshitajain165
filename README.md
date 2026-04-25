@@ -7,7 +7,7 @@ If not building with AI, you'll find me wearing the crimson _GitHub Campus Exper
 - 🔭 I'm currently a Developer Relations Engineer at [Smallest AI](https://smallest.ai/), enabling developers to build with real-time Voice AI
 - 🏆 Hackathon Coach at [Major League Hacking (MLH)](https://mlh.io/), mentoring organizers and hackers run successful, inclusive hackathons
 - 🎮 Previously a Software Development Engineer at [Mobile Premier League](https://www.mpl.live/), building real-time multiplayer games at scale
-- 🚩 Former [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/) — hosted workshops, hosted hackathons, and led initiatives
+- 🚩 Former [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/) — hosted workshops, hackathons, and led initiatives
 - 🎯 One of four game programmers from India selected for Ubisoft's Global Mentorship Program
 - 📚 When not building, I'm reading Dostoevsky or Murakami — or writing narratives of my own
 - 😄 Pronouns: She/her
