@@ -1,17 +1,14 @@
 ## Hello there 👋
 
-I am Harshita and I am walking on the path of a developer in the shoes of a designer. You'll either find me fidgeting with prefabs on the Unity 3D game engine to make my little game prototypes functional or zooming in and out on Figma to make a hamburger look pixel perfect.
-If not any of this, you'll find me wearing the crimson _GitHub Campus Expert_ hoodie and talking about my love for gamification of communities in various meet-ups and conferences. 
+I am Harshita - a Developer Relations Engineer at [Smallest AI](https://smallest.ai/), bridging real-time Voice AI and developer communities. I enable developers to build production-ready voice pipelines - from integrating smallest.ai into open-source orchestrators, to supporting startups from their first API call to real-world deployment.
 
-<img src="https://img.shields.io/badge/Hackathons-15-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/Attending-HackTropica-brightgreen?style=for-the-badge">
+If not building with AI, you'll find me speaking at conferences like GitHub Universe, DevRelCon Yokohama, Open Tech Summit Jakarta, HackCon by Major League Hacking, and codebar - on topics ranging from game development to gamification of technical communities.
 
-- 🏫 I'm currently pursuing B.Tech in Electronics and Communication Engineering from NIT Hamirpur
-- 📜 I'll graduate in May 2024
-- 🎲 I've worked on the domains of AR/VR, Game Development, UI/UX and am exploring fo opportunities in the same
-- 🔭 I'm currently working at [Mobile Premier League](https://www.mpl.live/) as a Software Development Intern
-- 🌱 I've previously worked at [Toyow](https://www.toyow.com) as a Unity Developer and at [Gamestacy](https://www.gamestacy.com/) as a UI/UX designer
-- 🚩 I'm a [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/)
-- 🎨 I'm a Figma Community Advocate at [Friends of Figma Hamirpur](https://friends.figma.com/hamirpur/)
+- 🏆 Hackathon Coach at [Major League Hacking (MLH)](https://mlh.io/), mentoring organizers and hackers run successful, inclusive hackathons
+- 🎮 Previously a Software Development Engineer at [Mobile Premier League](https://www.mpl.live/), building real-time multiplayer games at scale
+- 🚩 Former [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/) - hosted workshops, hackathons, and led initiatives
+- 🎯 One of four game programmers from India selected for Ubisoft's Global Mentorship Program
+- 📚 When not building, I'm reading Dostoevsky or Murakami - or writing narratives of my own
 - 😄 Pronouns: She/her
 
 ### Languages and tools I am familiar with: 🪛
@@ -20,6 +17,7 @@ If not any of this, you'll find me wearing the crimson _GitHub Campus Expert_ ho
 <img src = "https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white">
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src = "https://img.shields.io/badge/PlayCanvas-E05F2C.svg?style=for-the-badge&logo=PlayCanvas&logoColor=white">
 <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
 <img src = "https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
@@ -39,6 +37,7 @@ If not any of this, you'll find me wearing the crimson _GitHub Campus Expert_ ho
 
 <a href= "https://github.com/harshitajain165"><img src = "https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"> </a>
 <a href= "https://medium.com/@jainharshita561"><img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
+<a href= "https://harshmello.substack.com/"><img src = "https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"> </a>
 <a href= "https://www.behance.net/harshitajain165"><img src = "https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"> </a>
 <a href= "https://www.notion.so/harshmello/Harshita-s-Portfolio-94d7f92b8ace46c1a3001c7582505622"><img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a>
 <a href= "https://harshmello.itch.io/"><img src = "https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white"> </a>
