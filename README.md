@@ -4,7 +4,7 @@ I am Harshita - a Developer Relations Engineer at [Smallest AI](https://smallest
 
 If not building with AI, you'll find me speaking at conferences like GitHub Universe, DevRelCon Yokohama, Open Tech Summit Jakarta, HackCon by Major League Hacking, and codebar - on topics ranging from game development to gamification of technical communities.
 
-- 🏆 Hackathon Coach at [Major League Hacking (MLH)](https://mlh.io/), mentoring organizers and hackers run successful, inclusive hackathons
+- 🏆 Hackathon Coach (APAC) at [Major League Hacking (MLH)](https://mlh.io/), mentoring organizers and hackers run successful, inclusive hackathons
 - 🎮 Previously a Software Development Engineer at [Mobile Premier League](https://www.mpl.live/), building real-time multiplayer games at scale
 - 🚩 Former [GitHub Campus Expert](https://githubcampus.expert/harshitajain165/) - hosted workshops, hackathons, and led initiatives
 - 🎯 One of four game programmers from India selected for Ubisoft's Global Mentorship Program
@@ -14,7 +14,6 @@ If not building with AI, you'll find me speaking at conferences like GitHub Univ
 ### Languages and tools I am familiar with: 🪛
 
 <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src = "https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white">
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
